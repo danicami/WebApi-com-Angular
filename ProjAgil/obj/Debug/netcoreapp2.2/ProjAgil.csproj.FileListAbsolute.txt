@@ -1,0 +1,14 @@
+C:\Users\alexa\Documents\Daniela\Visual Studio\Udemy - WebApi, Angular e EF\ProjAgil\ProjAgil\bin\Debug\netcoreapp2.2\ProjAgil.deps.json
+C:\Users\alexa\Documents\Daniela\Visual Studio\Udemy - WebApi, Angular e EF\ProjAgil\ProjAgil\bin\Debug\netcoreapp2.2\ProjAgil.runtimeconfig.json
+C:\Users\alexa\Documents\Daniela\Visual Studio\Udemy - WebApi, Angular e EF\ProjAgil\ProjAgil\bin\Debug\netcoreapp2.2\ProjAgil.runtimeconfig.dev.json
+C:\Users\alexa\Documents\Daniela\Visual Studio\Udemy - WebApi, Angular e EF\ProjAgil\ProjAgil\bin\Debug\netcoreapp2.2\ProjAgil.dll
+C:\Users\alexa\Documents\Daniela\Visual Studio\Udemy - WebApi, Angular e EF\ProjAgil\ProjAgil\bin\Debug\netcoreapp2.2\ProjAgil.pdb
+C:\Users\alexa\Documents\Daniela\Visual Studio\Udemy - WebApi, Angular e EF\ProjAgil\ProjAgil\obj\Debug\netcoreapp2.2\ProjAgil.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\Daniela\Visual Studio\Udemy - WebApi, Angular e EF\ProjAgil\ProjAgil\obj\Debug\netcoreapp2.2\ProjAgil.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\Daniela\Visual Studio\Udemy - WebApi, Angular e EF\ProjAgil\ProjAgil\obj\Debug\netcoreapp2.2\ProjAgil.RazorAssemblyInfo.cache
+C:\Users\alexa\Documents\Daniela\Visual Studio\Udemy - WebApi, Angular e EF\ProjAgil\ProjAgil\obj\Debug\netcoreapp2.2\ProjAgil.RazorAssemblyInfo.cs
+C:\Users\alexa\Documents\Daniela\Visual Studio\Udemy - WebApi, Angular e EF\ProjAgil\ProjAgil\obj\Debug\netcoreapp2.2\ProjAgil.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\Daniela\Visual Studio\Udemy - WebApi, Angular e EF\ProjAgil\ProjAgil\obj\Debug\netcoreapp2.2\ProjAgil.AssemblyInfo.cs
+C:\Users\alexa\Documents\Daniela\Visual Studio\Udemy - WebApi, Angular e EF\ProjAgil\ProjAgil\obj\Debug\netcoreapp2.2\ProjAgil.RazorTargetAssemblyInfo.cache
+C:\Users\alexa\Documents\Daniela\Visual Studio\Udemy - WebApi, Angular e EF\ProjAgil\ProjAgil\obj\Debug\netcoreapp2.2\ProjAgil.dll
+C:\Users\alexa\Documents\Daniela\Visual Studio\Udemy - WebApi, Angular e EF\ProjAgil\ProjAgil\obj\Debug\netcoreapp2.2\ProjAgil.pdb
